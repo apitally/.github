@@ -1,8 +1,8 @@
 # Welcome to Apitally 👋
 
-**Your simple REST API companion.**
+**Your refreshingly simple REST API companion.**
 
-Apitally offers comprehensive API traffic monitoring and integrated API key management, while being extremely easy to set up and use with your new or existing API project.
+Apitally offers API traffic monitoring and integrated API key management that is extremely easy to set up and use with new and existing API projects.
 No assumptions made about your infrastructure, no extra tools for you to host and maintain.
 
 📚 [Documentation](https://docs.apitally.io)
