@@ -1,20 +1,22 @@
 # Welcome to Apitally 👋
 
-**A refreshingly simple REST API companion for busy engineering teams using Python.**
+**Your refreshingly simple REST API companion.**
 
-Apitally offers simple API monitoring and API key management that is easy to set up and use with new and existing API projects.
+Apitally gives you valuable insights into how your APIs are being used and allows you to secure your applications with API keys managed through a simple dashboard. It is easy to set up and use with new and existing API projects.
 
-🚀 [Get started](https://app.apitally.io) for free in less than 5 minutes.
+🚀 [Get started](https://docs.apitally.io/quickstart) for free in less than 5 minutes.
 
 Learn more on our 🌎 [website](https://apitally.io) or check out the 📚 [documentation](https://docs.apitally.io).
 
-## API monitoring
+## Features
+
+### API monitoring & analytics
 
 - Monitor API traffic, errors, and response times with our simple dashboard.
 - Get insights into the usage and performance of each endpoint.
 - Filter by consumer to understand different usage patterns.
 
-## API key management
+### API key management
 
 - Easily secure your endpoints with API key authentication.
 - Manage API keys, scopes and permissions in our simple dashboard.
@@ -28,10 +30,19 @@ Learn more on our 🌎 [website](https://apitally.io) or check out the 📚 [doc
 - No agents to install.
 - No limit on number of requests.
 
-## Supported Python web frameworks
+## Supported web frameworks
+
+### Python
 
 - [FastAPI](https://github.com/tiangolo/fastapi)
 - [Starlette](https://github.com/encode/starlette)
 - [Flask](https://github.com/pallets/flask)
 - [Django Ninja](https://github.com/vitalik/django-ninja)
 - [Django REST Framework](https://github.com/encode/django-rest-framework)
+
+### Node.js
+
+- [Express](https://github.com/expressjs/express)
+- [NestJS](https://github.com/nestjs/nest)
+- [Fastify](https://github.com/fastify/fastify)
+- [Koa](https://github.com/koajs/koa)
