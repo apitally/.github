@@ -2,7 +2,7 @@
 
 **Your refreshingly simple REST API companion.**
 
-Apitally gives you valuable insights into how your APIs are being used and allows you to secure your applications with API keys managed through a simple dashboard. It is easy to set up and use with new and existing API projects.
+Apitally gives you insights into how your APIs are being used, lets you know when there's a problem and allows you to secure your applications with API keys managed through a simple dashboard. It is easy to set up and use with new and existing API projects.
 
 🚀 [Get started](https://docs.apitally.io/quickstart) for free in less than 5 minutes.
 
@@ -10,11 +10,16 @@ Learn more on our 🌎 [website](https://apitally.io) or check out the 📚 [doc
 
 ## Features
 
-### API monitoring & analytics
+### API traffic monitoring
 
-- Monitor API traffic, errors, and response times with our simple dashboard.
+- Monitor API requests, errors, and response times with our simple dashboard.
 - Get insights into the usage and performance of each endpoint.
-- Filter by consumer to understand different usage patterns.
+- Filter by API consumer to understand different usage patterns.
+
+### API uptime monitoring & alerting
+
+- Monitor API uptime and availability.
+- Get alerted immediately if there's a problem.
 
 ### API key management
 
