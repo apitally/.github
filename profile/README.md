@@ -2,7 +2,7 @@
 
 **Monitor your REST APIs with ease.**
 
-Apitally helps you understand how your APIs are being used and alerts you when things go wrong.
+Apitally helps you understand how your APIs are being used and alerts you when things go wrong.<br>
 Just add two lines of code to your project.
 
 Learn more on our 🌎 [website](https://apitally.io) or check out the 📚 [documentation](https://docs.apitally.io).
@@ -11,7 +11,7 @@ Learn more on our 🌎 [website](https://apitally.io) or check out the 📚 [doc
 
 ### API traffic monitoring
 
-- Monitor API requests, errors, payload sizes and response times with our simple dashboard.
+- Monitor API requests, errors, payload sizes and response times on our simple dashboard.
 - Get insights into the usage and performance of each endpoint.
 - Filter by API consumer or endpoint group to understand different usage patterns.
 
