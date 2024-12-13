@@ -1,6 +1,6 @@
 # Welcome to Apitally 👋
 
-**Monitor your REST APIs with ease.**
+**Analytics, logging and monitoring for REST APIs.**
 
 Apitally helps you understand how your APIs are being used and alerts you when things go wrong.<br>
 Just add two lines of code to your project.
@@ -9,24 +9,17 @@ Learn more on our 🌎 [website](https://apitally.io) or check out the 📚 [doc
 
 ## Features
 
-### API traffic monitoring
+### Metrics & insights
 
-- Monitor API requests, errors, payload sizes and response times on our simple dashboard.
-- Get insights into the usage and performance of each endpoint.
-- Filter by API consumer or endpoint group to understand different usage patterns.
+Get actionable usage and performance insights about your API, each endpoint and individual API consumers, allowing you to make informed, data-driven engineering and product decisions.
 
-### API uptime monitoring & alerting
+### Request log
 
-- Monitor API uptime and availability.
-- Get alerted immediately if there's a problem.
+Drill down from insights to individual requests or use powerful filtering to understand exactly how consumers have interacted with your API. Take troubleshooting and customer support for your API to the next level.
 
-## Why Apitally?
+### Uptime monitoring & alerting
 
-- No collection of sensitive data.
-- No impact on performance.
-- No rerouting of your API traffic.
-- No agents to install.
-- No limit on number of requests.
+Get notified immediately if something isn't right, so you can address it before it impacts consumers. Whether it's downtime, traffic spikes, errors or performance issues, Apitally has you covered.
 
 ## Supported web frameworks
 
@@ -45,3 +38,4 @@ Learn more on our 🌎 [website](https://apitally.io) or check out the 📚 [doc
 - [NestJS](https://github.com/nestjs/nest)
 - [Fastify](https://github.com/fastify/fastify)
 - [Koa](https://github.com/koajs/koa)
+- [Hono](https://github.com/koajs/koa)
