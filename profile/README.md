@@ -43,3 +43,9 @@ Get notified immediately if something isn't right, so you can address it before 
 - Fastify
 - Koa
 - Hono
+
+### Java
+
+🔗 [Client library for Java](https://github.com/apitally/apitally-java)
+
+- Spring Boot
