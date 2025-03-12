@@ -25,7 +25,7 @@ Get notified immediately if something isn't right, so you can address it before 
 
 ### Python
 
-🔗 [Client library for Python](https://github.com/apitally/apitally-py)
+🔗 [SDK for Python](https://github.com/apitally/apitally-py)
 
 - FastAPI
 - Flask
@@ -36,7 +36,7 @@ Get notified immediately if something isn't right, so you can address it before 
 
 ### Node.js
 
-🔗 [Client library for Node.js](https://github.com/apitally/apitally-js)
+🔗 [SDK for Node.js](https://github.com/apitally/apitally-js)
 
 - Express
 - NestJS
@@ -46,6 +46,12 @@ Get notified immediately if something isn't right, so you can address it before 
 
 ### Java
 
-🔗 [Client library for Java](https://github.com/apitally/apitally-java)
+🔗 [SDK for Java](https://github.com/apitally/apitally-java)
 
 - Spring Boot
+
+### .NET
+
+🔗 [SDK for .NET](https://github.com/apitally/apitally-dotnet)
+
+- ASP.NET Core
