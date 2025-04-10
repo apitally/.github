@@ -45,6 +45,12 @@ Get notified immediately if something isn't right, so you can address it before 
 - Hono
 - AdonisJS
 
+### Go
+
+🔗 [SDK for Go](https://github.com/apitally/apitally-go)
+
+- Gin
+
 ### Java
 
 🔗 [SDK for Java](https://github.com/apitally/apitally-java)
