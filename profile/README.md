@@ -49,6 +49,7 @@ Get notified immediately if something isn't right, so you can address it before 
 
 🔗 [SDK for Go](https://github.com/apitally/apitally-go)
 
+- Fiber
 - Gin
 
 ### Java
