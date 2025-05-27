@@ -2,8 +2,7 @@
 
 **Simple, privacy-focused API monitoring & analytics**
 
-Apitally helps you understand how your APIs are being used and alerts you when things go wrong.<br>
-Just add two lines of code to your project to get started.
+Apitally gives you the visibility you need to build better APIs – with just a few lines of code.
 
 Learn more on our 🌎 [website](https://apitally.io) or check out the 📚 [documentation](https://docs.apitally.io).
 
