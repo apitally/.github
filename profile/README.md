@@ -32,6 +32,7 @@ Get notified immediately if something isn't right, so you can address it before 
 - Django REST Framework
 - Starlette
 - Litestar
+- BlackSheep
 
 ### Node.js
 
@@ -48,6 +49,8 @@ Get notified immediately if something isn't right, so you can address it before 
 
 🔗 [SDK for Go](https://github.com/apitally/apitally-go)
 
+- Chi
+- Echo
 - Fiber
 - Gin
 
