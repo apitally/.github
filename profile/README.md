@@ -1,8 +1,6 @@
 # Welcome to Apitally 👋
 
-**Simple, privacy-focused API monitoring & analytics**
-
-Apitally gives you the visibility you need to build better APIs – with just a few lines of code.
+Apitally is a simple API monitoring & analytics tool that provides intuitive dashboards with real-time metrics, request logs, and alerts. It's super easy to set up — just add a few lines of code to your project.
 
 Learn more on our 🌎 [website](https://apitally.io) or check out the 📚 [documentation](https://docs.apitally.io).
 
